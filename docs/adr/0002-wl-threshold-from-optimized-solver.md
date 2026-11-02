@@ -1,0 +1,7 @@
+# Wirelength threshold equals a heavily optimized reference solver's result
+
+Each case's WL threshold T is the median wirelength of the TA reference solver over several seeds with the same 120 s limit students get, with k = 1: WL ≤ T earns the full 5 WL points, decaying linearly to 0 at 1.05T. The reference solver is deliberately professional-grade and repeatedly optimized, not a classroom-level B*-tree SA, because students now build solvers with AI help and reach strong results; the short 1.05T tail is the only concession; it absorbs seed-to-seed noise of the reference itself (T is a median, so half of the reference's own seeds exceed it). A 1.2T tail was rejected as too lenient once hidden whitespace was made tight (2026-10-29); a pure pass/fail at T was rejected because a 0.5% miss would cost all 5 points. The reference solver runs under the student runtime limit (120 s, single-threaded) so the comparison is fair; an earlier draft measured T at 24 s, which left students about 14% of free WL headroom from runtime alone and was rejected (2026-10-29). The solver is tuned only on public benchmarks (FloorSet, GSRC, MCNC) and a separate generated dev set, never on the five graded cases, and is frozen before calibration so that all five T values come from the same solver version.
+
+## Consequences
+
+Weakening the solver later, or recalibrating with a different version, silently changes every case's difficulty. Any solver change after release requires recalibrating all five cases.

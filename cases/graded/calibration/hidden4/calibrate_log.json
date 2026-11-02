@@ -1,0 +1,344 @@
+[
+ {
+  "ws": 0.15,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 3.697,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1500",
+  "loadavg": [
+   14.27,
+   13.27,
+   10.94
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.145,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 3.833,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1450",
+  "loadavg": [
+   10.73,
+   12.29,
+   10.84
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.14,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 3.749,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1400",
+  "loadavg": [
+   10.47,
+   11.72,
+   10.79
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.135,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 1.174,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1350",
+  "loadavg": [
+   11.62,
+   11.65,
+   10.86
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.13,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 1.338,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1300",
+  "loadavg": [
+   11.27,
+   11.62,
+   10.95
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.125,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 30.912,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1250",
+  "loadavg": [
+   10.46,
+   11.2,
+   10.87
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.12,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 18.672,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1200",
+  "loadavg": [
+   9.49,
+   10.72,
+   10.74
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.115,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 13.036,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1150",
+  "loadavg": [
+   10.24,
+   10.61,
+   10.69
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.11,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 5.375,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1100",
+  "loadavg": [
+   10.19,
+   10.48,
+   10.63
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.105,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 6.924,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1050",
+  "loadavg": [
+   10.22,
+   10.38,
+   10.58
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.1,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 12.823,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1000",
+  "loadavg": [
+   10.31,
+   10.33,
+   10.53
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.095,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 29.942,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.0950",
+  "loadavg": [
+   10.22,
+   10.28,
+   10.49
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.09,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 10.732,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.0900",
+  "loadavg": [
+   10.31,
+   10.28,
+   10.46
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.085,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 9.98,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.0850",
+  "loadavg": [
+   10.16,
+   10.24,
+   10.43
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.08,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 19.145,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.0800",
+  "loadavg": [
+   9.47,
+   10.06,
+   10.34
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.075,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 43.452,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.0750",
+  "loadavg": [
+   10.46,
+   10.18,
+   10.35
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.07,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 22.115,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.0700",
+  "loadavg": [
+   16.62,
+   12.28,
+   11.08
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.065,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 44.942,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.0650",
+  "loadavg": [
+   14.38,
+   13.11,
+   11.54
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.06,
+  "pass": false,
+  "runs": 10,
+  "ok_runs": 9,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 9,
+  "ttf_max": 83.086,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.0600",
+  "loadavg": [
+   12.56,
+   12.85,
+   11.63
+  ],
+  "cpu_count": 40
+ }
+]

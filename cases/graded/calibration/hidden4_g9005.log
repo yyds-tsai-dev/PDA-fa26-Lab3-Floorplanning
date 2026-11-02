@@ -1,0 +1,9 @@
+calibrate: hidden4 gseed 9005 ws 0.15 step 0.005 min 0.03 runs 10 time 110.0s ttf-max 60.0s jobs 10 cores [10, 11, 12, 13, 14, 15, 16, 17, 18, 19] out /vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4
+  ws 0.1500: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 32.843 load [6.29, 15.79, 18.01]
+  ws 0.1450: FAIL ok 6/10 feas 6 bnd 6 mib 6 ttf_max 25.456 load [17.82, 17.09, 18.24]
+
+case hidden4 (gen seed 9005): ws 0.1500  T 1614051.5  input /vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1500.in
+  WL min 1582653.0  median 1614051.5  p90 1654448.8  max 1681348.0  max/median 1.0417
+  full WL (WL<=T): 5/10   >1.05T: 0/10   total mean 18.99 min 15.83
+  ttf median 13.86  max 32.84
+  sanity: pass (WL 5723873.0, 1.05T 1694754.1)

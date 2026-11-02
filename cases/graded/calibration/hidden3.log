@@ -1,0 +1,23 @@
+calibrate: hidden3 gseed 9004 ws 0.15 step 0.005 min 0.03 runs 10 time 110.0s ttf-max 60.0s jobs 10 cores [0, 1, 2, 3, 4, 5, 6, 7, 8, 9] out /vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden3
+  ws 0.1500: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 3.48 load [6.29, 15.79, 18.01]
+  ws 0.1450: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 3.356 load [17.82, 17.09, 18.24]
+  ws 0.1400: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 3.513 load [19.8, 18.02, 18.45]
+  ws 0.1350: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 5.99 load [12.04, 15.81, 17.61]
+  ws 0.1300: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 15.809 load [10.37, 14.05, 16.77]
+  ws 0.1250: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 4.12 load [10.31, 12.89, 16.04]
+  ws 0.1200: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 27.852 load [10.12, 12.06, 15.4]
+  ws 0.1150: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 28.088 load [10.24, 11.51, 14.82]
+  ws 0.1100: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 9.563 load [10.04, 11.04, 14.28]
+  ws 0.1050: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 4.082 load [9.38, 10.6, 13.76]
+  ws 0.1000: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 42.394 load [10.05, 10.48, 13.38]
+  ws 0.0950: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 41.912 load [10.28, 10.4, 13.02]
+  ws 0.0900: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 15.536 load [10.04, 10.27, 12.67]
+  ws 0.0850: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 41.283 load [10.09, 10.22, 12.39]
+  ws 0.0800: PASS ok 10/10 feas 10 bnd 10 mib 10 ttf_max 42.371 load [10.01, 10.14, 12.12]
+  ws 0.0750: FAIL ok 9/10 feas 10 bnd 10 mib 10 ttf_max 72.476 load [10.17, 10.2, 11.92]
+
+case hidden3 (gen seed 9004): ws 0.0800  T 1520007.0  input /vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden3/hidden3_ws0.0800.in
+  WL min 1403711.0  median 1520006.8  p90 1602779.4  max 1661063.0  max/median 1.0928
+  full WL (WL<=T): 5/10   >1.05T: 2/10   total mean 17.91 min 15.00
+  ttf median 8.27  max 42.37
+  sanity: pass (WL 4481387.5, 1.05T 1596007.4)

@@ -1,0 +1,10 @@
+wave1 start Mon Nov  2 03:40:16 CST 2026
+hidden1 exit=0
+hidden2 exit=0
+wave2 start Mon Nov  2 04:21:20 CST 2026
+hidden4 exit=0
+hidden3 exit=0
+public start Mon Nov  2 04:50:20 CST 2026
+public ws=0.12
+public exit=0
+ALLDONE Mon Nov  2 04:52:08 CST 2026

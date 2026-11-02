@@ -1,0 +1,38 @@
+[
+ {
+  "ws": 0.15,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 32.843,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1500",
+  "loadavg": [
+   6.29,
+   15.79,
+   18.01
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.145,
+  "pass": false,
+  "runs": 10,
+  "ok_runs": 6,
+  "feasible": 6,
+  "full_boundary": 6,
+  "full_mib": 6,
+  "ttf_ok": 6,
+  "ttf_max": 25.456,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden4/hidden4_ws0.1450",
+  "loadavg": [
+   17.82,
+   17.09,
+   18.24
+  ],
+  "cpu_count": 40
+ }
+]

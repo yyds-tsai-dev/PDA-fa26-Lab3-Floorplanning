@@ -1,0 +1,398 @@
+[
+ {
+  "ws": 0.15,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.174,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1500",
+  "loadavg": [
+   0.04,
+   3.19,
+   11.0
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.145,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.164,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1450",
+  "loadavg": [
+   16.66,
+   8.21,
+   11.98
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.14,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.875,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1400",
+  "loadavg": [
+   19.63,
+   11.91,
+   12.91
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.135,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.318,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1350",
+  "loadavg": [
+   20.13,
+   14.5,
+   13.74
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.13,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.194,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1300",
+  "loadavg": [
+   20.17,
+   16.2,
+   14.44
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.125,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.2,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1250",
+  "loadavg": [
+   20.24,
+   17.46,
+   15.1
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.12,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.199,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1200",
+  "loadavg": [
+   20.19,
+   18.26,
+   15.64
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.115,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.539,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1150",
+  "loadavg": [
+   20.55,
+   18.99,
+   16.2
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.11,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.433,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1100",
+  "loadavg": [
+   20.16,
+   19.33,
+   16.64
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.105,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.339,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1050",
+  "loadavg": [
+   20.06,
+   19.55,
+   17.01
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.1,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.399,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.1000",
+  "loadavg": [
+   20.33,
+   19.8,
+   17.38
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.095,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.552,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0950",
+  "loadavg": [
+   20.27,
+   19.93,
+   17.71
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.09,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.559,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0900",
+  "loadavg": [
+   20.12,
+   20.0,
+   17.97
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.085,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.409,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0850",
+  "loadavg": [
+   20.02,
+   20.0,
+   18.2
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.08,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 0.503,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0800",
+  "loadavg": [
+   20.02,
+   20.01,
+   18.4
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.075,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 3.251,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0750",
+  "loadavg": [
+   20.02,
+   20.02,
+   18.59
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.07,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 12.43,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0700",
+  "loadavg": [
+   20.0,
+   20.0,
+   18.75
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.065,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 9.366,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0650",
+  "loadavg": [
+   20.02,
+   20.01,
+   18.9
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.06,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 28.973,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0600",
+  "loadavg": [
+   20.04,
+   20.03,
+   19.04
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.055,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 15.42,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0550",
+  "loadavg": [
+   20.18,
+   20.11,
+   19.18
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.05,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 35.078,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0500",
+  "loadavg": [
+   20.1,
+   20.1,
+   19.29
+  ],
+  "cpu_count": 40
+ },
+ {
+  "ws": 0.045,
+  "pass": false,
+  "runs": 10,
+  "ok_runs": 9,
+  "feasible": 9,
+  "full_boundary": 9,
+  "full_mib": 9,
+  "ttf_ok": 9,
+  "ttf_max": 56.831,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/hidden1/hidden1_ws0.0450",
+  "loadavg": [
+   20.22,
+   20.16,
+   19.4
+  ],
+  "cpu_count": 40
+ }
+]

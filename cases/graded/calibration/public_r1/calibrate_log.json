@@ -1,0 +1,20 @@
+[
+ {
+  "ws": 0.12,
+  "pass": true,
+  "runs": 10,
+  "ok_runs": 10,
+  "feasible": 10,
+  "full_boundary": 10,
+  "full_mib": 10,
+  "ttf_ok": 10,
+  "ttf_max": 1.091,
+  "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/public/public_ws0.1200",
+  "loadavg": [
+   9.37,
+   10.01,
+   11.66
+  ],
+  "cpu_count": 40
+ }
+]

@@ -1,0 +1,206 @@
+{
+ "preset": "public",
+ "gen_seed": 9001,
+ "ok": true,
+ "ws": 0.11,
+ "T": 286355.5,
+ "input": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/public/public_ws0.1100.in",
+ "wl": {
+  "min": 278141.0,
+  "median": 286355.5,
+  "p90": 306345.6,
+  "max": 322375.5,
+  "max_over_median": 1.1257877009521382
+ },
+ "runs": 10,
+ "full_wl_runs": 5,
+ "over_1.05T_runs": 2,
+ "wl_score_mean": 3.207,
+ "total_mean": 18.207,
+ "total_min": 15.0,
+ "ttf": {
+  "median": 0.389,
+  "max": 9.162
+ },
+ "sanity": {
+  "status": "pass",
+  "wl": 881595.0,
+  "threshold_1.05T": 300673.275,
+  "args": "--set s_wl0=1"
+ },
+ "solver": "/vdahome/course/2026PDA/2026PDA090/lab3_check/solver/fp",
+ "solver_md5": "23f5eaf0d47702ed7674515f502ee0e4",
+ "pregen": "/vdahome/course/2026PDA/2026PDA090/lab3_check/pregen",
+ "per_run": [
+  {
+   "seed": 1,
+   "ttf": 3.087,
+   "v_wl": 280718.0,
+   "v_wl_score": 5.0,
+   "v_total": 20.0,
+   "bnd": [
+    10,
+    10
+   ],
+   "mib": [
+    4,
+    4
+   ]
+  },
+  {
+   "seed": 2,
+   "ttf": 0.918,
+   "v_wl": 279621.5,
+   "v_wl_score": 5.0,
+   "v_total": 20.0,
+   "bnd": [
+    10,
+    10
+   ],
+   "mib": [
+    4,
+    4
+   ]
+  },
+  {
+   "seed": 3,
+   "ttf": 0.101,
+   "v_wl": 283272.0,
+   "v_wl_score": 5.0,
+   "v_total": 20.0,
+   "bnd": [
+    10,
+    10
+   ],
+   "mib": [
+    4,
+    4
+   ]
+  },
+  {
+   "seed": 4,
+   "ttf": 0.752,
+   "v_wl": 295545.5,
+   "v_wl_score": 1.79,
+   "v_total": 16.79,
+   "bnd": [
+    10,
+    10
+   ],
+   "mib": [
+    4,
+    4
+   ]
+  },
+  {
+   "seed": 5,
+   "ttf": 0.101,
+   "v_wl": 299463.5,
+   "v_wl_score": 0.42,
+   "v_total": 15.42,
+   "bnd": [
+    10,
+    10
+   ],
+   "mib": [
+    4,
+    4
+   ]
+  },
+  {
+   "seed": 6,
+   "ttf": 0.461,
+   "v_wl": 322375.5,
+   "v_wl_score": 0.0,
+   "v_total": 15.0,
+   "bnd": [
+    10,
+    10
+   ],
+   "mib": [
+    4,
+    4
+   ]
+  },
+  {
+   "seed": 7,
+   "ttf": 9.162,
+   "v_wl": 286749.5,
+   "v_wl_score": 4.86,
+   "v_total": 19.86,
+   "bnd": [
+    10,
+    10
+   ],
+   "mib": [
+    4,
+    4
+   ]
+  },
+  {
+   "seed": 8,
+   "ttf": 0.11,
+   "v_wl": 285961.5,
+   "v_wl_score": 5.0,
+   "v_total": 20.0,
+   "bnd": [
+    10,
+    10
+   ],
+   "mib": [
+    4,
+    4
+   ]
+  },
+  {
+   "seed": 9,
+   "ttf": 0.228,
+   "v_wl": 304564.5,
+   "v_wl_score": 0.0,
+   "v_total": 15.0,
+   "bnd": [
+    10,
+    10
+   ],
+   "mib": [
+    4,
+    4
+   ]
+  },
+  {
+   "seed": 10,
+   "ttf": 0.317,
+   "v_wl": 278141.0,
+   "v_wl_score": 5.0,
+   "v_total": 20.0,
+   "bnd": [
+    10,
+    10
+   ],
+   "mib": [
+    4,
+    4
+   ]
+  }
+ ],
+ "log": [
+  {
+   "ws": 0.11,
+   "pass": true,
+   "runs": 10,
+   "ok_runs": 10,
+   "feasible": 10,
+   "full_boundary": 10,
+   "full_mib": 10,
+   "ttf_ok": 10,
+   "ttf_max": 9.162,
+   "base": "/vdahome/course/2026PDA/2026PDA090/lab3_check/cal/public/public_ws0.1100",
+   "loadavg": [
+    6.65,
+    11.01,
+    11.18
+   ],
+   "cpu_count": 40
+  }
+ ]
+}

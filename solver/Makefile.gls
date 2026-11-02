@@ -1,0 +1,13 @@
+# GLS legalizer harness (does not touch fp / Makefile).
+#   make -f Makefile.gls        -> ./test_gls
+CXX      ?= g++
+CXXFLAGS ?= -O2 -Wall -Wextra
+CXXFLAGS += -std=c++17 -I../verifier
+
+test_gls: test_gls.cpp gls.h gp.h shape.h extract.h ../verifier/lab3_io.h mcf/wl_lp.h mcf/network_simplex.h
+	$(CXX) $(CXXFLAGS) -o $@ test_gls.cpp
+
+clean:
+	rm -f test_gls
+
+.PHONY: clean

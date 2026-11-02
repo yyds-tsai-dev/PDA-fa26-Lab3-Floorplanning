@@ -1,0 +1,13 @@
+# Homotopy diagnostic harness (does not touch fp / Makefile).
+#   make -f Makefile.homotopy        -> ./test_homotopy
+CXX      ?= g++
+CXXFLAGS ?= -O2 -Wall -Wextra
+CXXFLAGS += -std=c++17 -I../verifier
+
+test_homotopy: test_homotopy.cpp gls.h gp.h shape.h extract.h ../verifier/lab3_io.h mcf/wl_lp.h mcf/network_simplex.h
+	$(CXX) $(CXXFLAGS) -o $@ test_homotopy.cpp
+
+clean:
+	rm -f test_homotopy
+
+.PHONY: clean

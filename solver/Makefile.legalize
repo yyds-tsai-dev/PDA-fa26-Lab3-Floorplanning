@@ -1,0 +1,13 @@
+# Legalizer harness (does not touch fp / Makefile).
+#   make -f Makefile.legalize        -> ./test_legalize
+CXX      ?= g++
+CXXFLAGS ?= -O2 -Wall -Wextra
+CXXFLAGS += -std=c++17 -I../verifier
+
+test_legalize: test_legalize.cpp legalize.h gp.h shape.h extract.h ../verifier/lab3_io.h mcf/wl_lp.h mcf/network_simplex.h
+	$(CXX) $(CXXFLAGS) -o $@ test_legalize.cpp
+
+clean:
+	rm -f test_legalize
+
+.PHONY: clean

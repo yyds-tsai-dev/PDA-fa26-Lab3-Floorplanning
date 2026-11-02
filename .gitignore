@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+
+# Build outputs (sources are committed; rebuild with make).
+# Kept on purpose: solver/fp.vda04 (frozen reference, workstation build) and
+# cases/graded/release/verifier (the shipped verifier, workstation build).
+*.o
+/verifier/verifier
+/solver/fp
+/solver/fp_ref
+/solver/test_shape
+/solver/test_legalize
+/solver/test_homotopy
+/solver/test_construct
+/solver/test_oracle
+/solver/test_gls
+/solver/mcf/polish
+/solver/mcf/test_ns
+/solver/mcf/test_wl
+/solver/mcf/test_timing
+/solver/mcf/test_out/
+
+# LaTeX
+/spec/Lab3.aux
+/spec/Lab3.log
+/spec/Lab3.out
+/spec/Lab3.toc
+
+# External reference material: archives and third-party binaries
+# (the extracted text/PDF/case files are committed).
+/reference/*.tar
+/reference/*.zip
+/reference/tb/checker
+/reference/Lab2/verifier
+/reference/lab2_student/verifier
